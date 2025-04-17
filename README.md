@@ -6,13 +6,13 @@ Git and GitHub
 
 ⚙️ How to Run
 
-#git clone https://github.com/yourusername/my_flutter_app.git
+git clone https://github.com/yourusername/my_flutter_app.git
 
-#cd my_flutter_app
+cd my_flutter_app
 
-#flutter pub get
+flutter pub get
 
-#flutter run
+flutter run
 
 
 📸 Screenshots
