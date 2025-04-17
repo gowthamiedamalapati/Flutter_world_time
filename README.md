@@ -1,8 +1,7 @@
 🛠️ Technologies Used
+
 Flutter & Dart
-
 Android Studio
-
 Git and GitHub
 
 ⚙️ How to Run
